@@ -1,8 +1,3 @@
-
-
-
-
-
 def caesar(n,s,k):
     p=''
     for i in s:
